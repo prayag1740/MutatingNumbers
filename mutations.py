@@ -17,6 +17,7 @@ gencnt = 10 #input("Members in each generation: ")
 print("Initial batch: ")
 members = []
 values = []
+print("hello")
 for x in range(gencnt):
     string = ""
     len = random.randrange(0,max_len)
